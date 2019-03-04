@@ -1,0 +1,48 @@
+movieId,title,genres
+001,pleuritic cp,pe|pericarditis|msk cp
+002,hx dvt or pe,pe
+003,recent surgery,pe
+004,unilateral leg pain or swelling,pe
+005,hemoptysis,pe
+006,active malignancy,pe
+007,recent long-distance travel or immobilization,pe
+008,relieved by sitting or leaning forward,pericarditis
+009,sharp cp,pericarditis|msk cp|pneumothorax|aortic dissection
+010,fever,pericarditis|pneumonia
+011,recent flu-like illness,pericarditis|pneumonia
+012,recent trauma,msk cp
+013,radiation to back,aortic dissection
+014,tearing cp,aortic dissection
+015,sudden cp onset,acs|aortic dissection|pe|msk cp|dyspnea
+016,gradual cp onset,pericarditis
+017,pressure cp,acs
+018,exertional cp,acs
+019,movement cp,msk cp
+020,radiation to jaw,acs
+021,radiation to either arm,acs
+022,constant pain,pericarditis|pe|aortic dissection
+023,episodic pain,acs|msk cp
+024,hx heart disease,acs
+025,cocaine use,acs|aortic dissection
+026,smoker,acs|pneumothorax
+027,family hx heart disease,acs
+028,recent forceful vomiting,esophageal rupture
+029,nausea,acs
+030,vomiting,acs
+031,diaphoresis,acs
+032,syncope,pe|aortic dissection|acs
+033,palpitations,pe
+034,dyspnea,acs|pericarditis|pe|pneumothorax|pneumonia
+035,exogenous estrogen,pe|dvt
+036,hx hypertension,acs|aortic dissection
+037,hx diabetes,acs
+038,hx peripheral artery disease,acs
+039,hx connective tissue disorder,aortic dissection
+040,bicuspid aortic valve,aortic dissection
+041,pregnant,pe|aortic dissection
+042,hx dyslipidemia,acs
+043,hx obesity,acs
+044,recent fracture,pe
+045,hx HIV,pneumothorax|pneumonia
+046,hx endometriosis,pneumothorax
+047,cough,pneumonia|urti|lung ca
